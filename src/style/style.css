@@ -1,0 +1,128 @@
+section {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.myBg {
+    background: url('../assets/img/bg.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.header {
+    padding-top: 10rem;
+    color: white;
+}
+
+.header {
+    font-size: 5rem;
+    display: block;
+}
+
+.offerBtn {
+    padding: 12px 28px;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    transition-duration: 0.3s;
+}
+
+.offerBtn:hover {
+    background-color: #eeeeee;
+}
+
+.story {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.storyBtn {
+    background-color: black;
+    color: white;
+    padding: 12px 28px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: 0.3s;
+}
+
+.storyBtn:hover {
+    background-color: #252525;
+}
+
+.ecoProducts {
+    padding-top: 8rem;
+    padding-bottom: 2rem;
+}
+
+.ecoBtn {
+    background-color: black;
+    color: white;
+    padding: 12px 28px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: 0.3s;
+}
+
+.ecoBtn:hover {
+    background-color: #252525;
+}
+
+.bgInTouch {
+    background-color: #f0dddd;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.bgOrder {
+    background-color: #d0d7c9;
+    padding-top: 12rem;
+    height: 100vh;
+    padding-bottom: 8rem;
+}
+
+.bgSelectOrder {
+    padding-top: 10rem;
+}
+
+.getInTouchBtn {
+    background-color: black;
+    color: white;
+    padding: 12px 28px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: 0.3s;
+}
+
+.getInTouchBtn:hover {
+    background-color: #252525;
+}
+
+.mainContact {
+    padding-top: 8rem;
+}
+
+.footerTag {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.footerContact {
+    margin-top: 1rem;
+    font-weight: 500;
+}
+
+.textOrder {
+    padding: 0 18rem;
+}
+
+/* Mobile */
+@media (max-width: 575.98px) {
+    .header {
+        font-size: 42px;
+    }
+
+    .textOrder {
+        padding: 0 18px;
+    }
+}
