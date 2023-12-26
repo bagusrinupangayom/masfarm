@@ -7,6 +7,7 @@ import NavigationBar from './pages/navigationBar';
 import Home from './pages/home';
 import Footer from './pages/footer';
 import Order from './pages/order';
+import About from './pages/about';
 
 function App() {
     return (
@@ -20,6 +21,7 @@ function App() {
                     <Route path="/" element={<Home />} />
                     <Route path="/order" element={<Order />} />
                     <Route path="/coba" element={<Coba />} />
+                    <Route path="/about" element={<About />} />
                 </Routes>
 
                 <div>
