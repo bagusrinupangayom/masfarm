@@ -70,14 +70,29 @@ section {
 
 .bgInTouch {
     background-color: #f0dddd;
+    height: 100vh;
     padding-top: 8rem;
     padding-bottom: 8rem;
 }
 
 .bgOrder {
     background-color: #d0d7c9;
-    padding-top: 12rem;
     height: 100vh;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.fBgAbout {
+    background-color: #f0dddd;
+    height: 110vh;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.eBgAbout {
+    background-color: #f0dddd;
+    height: 100vh;
+    padding-top: 8rem;
     padding-bottom: 8rem;
 }
 
@@ -113,6 +128,7 @@ section {
 }
 
 .textOrder {
+    margin-top: 4rem;
     padding: 0 18rem;
 }
 

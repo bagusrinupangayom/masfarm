@@ -71,7 +71,9 @@ const HomeComp = () => {
             <section className="bgInTouch">
                 <Container>
                     <div className="text-center">
-                        <h1>We're proud to be farmers. From our fields to your plate, all of our produce is grown with love.</h1>
+                        <div className="textOrder">
+                            <h2>We're proud to be farmers. From our fields to your plate, all of our produce is grown with love.</h2>
+                        </div>
                     </div>
 
                     <div className="mt-5 text-center">
