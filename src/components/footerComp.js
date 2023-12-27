@@ -16,16 +16,16 @@ const FooterComp = () => {
                             <h3>Contact</h3>
 
                             <div className="footerContact mb-4">
-                                <div>701-931-6988</div>
-                                <div>hello@granville.com</div>
+                                <div>089-231-6148</div>
+                                <div>hello@masfarm.com</div>
                             </div>
                         </Col>
                         <Col sm={2}>
                             <h3>Address</h3>
 
                             <div className="footerContact">
-                                <div>1420 Willis Avenue</div>
-                                <div>Jacksonville, FL 32216</div>
+                                <div>Soekarno Street 11</div>
+                                <div>Semarang, Indonesia</div>
                             </div>
                         </Col>
                     </Row>

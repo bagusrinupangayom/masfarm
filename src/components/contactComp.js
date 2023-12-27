@@ -10,8 +10,8 @@ const ContactComp = () => {
 
                         <div className="textOrder mt-3">
                             <h5>
-                                If you're interested in finding more about us or the way we run Granville, feel free to get in touch. We can also advise you as to what we're currently harvesting so
-                                you can order accordingly.
+                                If you're interested in finding more about us or the way we run Masfarm, feel free to get in touch. We can also advise you as to what we're currently harvesting so you
+                                can order accordingly.
                             </h5>
                         </div>
                     </div>
@@ -25,15 +25,15 @@ const ContactComp = () => {
                             <h3>Contact</h3>
 
                             <div className="footerContact mb-4">
-                                <div>701-931-6988</div>
-                                <div>hello@granville.com</div>
+                                <div>089-231-6148</div>
+                                <div>hello@masfarm.com</div>
                             </div>
 
                             <h3 className="mt-5 pt-5">Address</h3>
 
                             <div className="footerContact mb-4 pb-4">
-                                <div>1420 Willis Avenue</div>
-                                <div>Jacksonville, FL 32216</div>
+                                <div>Soekarno Street No. 11</div>
+                                <div>Semarang, Indonesia</div>
                             </div>
                         </Col>
 

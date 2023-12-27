@@ -9,11 +9,11 @@ const AboutComp = () => {
                     <div className="text-center">
                         <h2>ABOUT US</h2>
                         <div className="textOrder mt-3">
-                            <h5>Nature gets it right, so we get it from nature. The food that we grow here at Granville is eco-certified and loved, from seed to harvest.</h5>
+                            <h5>Nature gets it right, so we get it from nature. The food that we grow here at Masfarm is eco-certified and loved, from seed to harvest.</h5>
 
                             <p className="mt-3">
                                 We're a small, family-owned and run farm. Our philosophy is to produce ecological fruits and vegetables of the best quality. That means sourcing heirloom seeds, not
-                                using harmful pesticides, and rotating crops. While our yields aren't huge, Granville's produce is, truly, of the best quality you can get. Filled with minerals and
+                                using harmful pesticides, and rotating crops. While our yields aren't huge, Masfarm's produce is, truly, of the best quality you can get. Filled with minerals and
                                 vitamins, you can rest easy knowing that your family is well-taken care of. Nutritious and simple, we harvest all of our produce, minimizing waste, and making sure that
                                 crooked carrot finds its way onto your table too.
                             </p>
@@ -70,14 +70,14 @@ const AboutComp = () => {
                             <div className="text-center mb-5 p-3">
                                 <h4>FAMILY OWNED</h4>
 
-                                <p>Granville's produce is a family owned and run business. When we retire, all of the fruits of our labor will be left for our kids and grandkids to run.</p>
+                                <p>Masfarm's produce is a family owned and run business. When we retire, all of the fruits of our labor will be left for our kids and grandkids to run.</p>
                             </div>
                         </Col>
                         <Col sm={6}>
                             <div className="text-center p-3">
                                 <h4>SUSTAINABLE FARMING</h4>
 
-                                <p>We live by the principle that our work has to be good for the nature. We are working towards running a fully zero-waste organic farm here at Granville.</p>
+                                <p>We live by the principle that our work has to be good for the nature. We are working towards running a fully zero-waste organic farm here at Masfarm.</p>
                             </div>
                         </Col>
                     </Row>
