@@ -9,6 +9,10 @@ section {
     height: 100vh;
 }
 
+.textNavbar {
+    font-weight: 600;
+}
+
 .header {
     padding-top: 10rem;
     color: white;

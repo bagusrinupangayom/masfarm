@@ -7,7 +7,7 @@ const NavigationBarComp = () => {
     return (
         <>
             <div>
-                <Navbar collapseOnSelect expand="lg" bg="light" variant="light" fixed="top">
+                <Navbar collapseOnSelect expand="lg" bg="light" variant="light" fixed="top" className="textNavbar">
                     <Container>
                         <Navbar.Brand>
                             <Nav.Link onClick={() => navigate('/')}>Masfarm</Nav.Link>
