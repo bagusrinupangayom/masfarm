@@ -11,7 +11,7 @@ const ContactComp = () => {
                         <div className="textOrder mt-3">
                             <h5>
                                 If you're interested in finding more about us or the way we run Granville, feel free to get in touch. We can also advise you as to what we're currently harvesting so
-                                you can order accordingly.{' '}
+                                you can order accordingly.
                             </h5>
                         </div>
                     </div>
