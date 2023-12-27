@@ -19,7 +19,7 @@ const NavigationBarComp = () => {
                                     <Nav.Link onClick={() => navigate('/')}>Home</Nav.Link>
                                     <Nav.Link onClick={() => navigate('/order')}>Order</Nav.Link>
                                     <Nav.Link onClick={() => navigate('/about')}>About</Nav.Link>
-                                    <Nav.Link href="/#">Contact</Nav.Link>
+                                    <Nav.Link onClick={() => navigate('/contact')}>Contact</Nav.Link>
                                 </Nav>
                             </Stack>
                         </Navbar.Collapse>

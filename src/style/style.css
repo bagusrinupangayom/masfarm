@@ -89,6 +89,19 @@ section {
     padding-bottom: 8rem;
 }
 
+.fbgContact {
+    background-color: #d0d7c9;
+    height: 100vh;
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+}
+
+.custom-form .form-control {
+    border-radius: 0; /* Set border-radius to 0 for all form controls */
+    background-color: #eeeeee;
+    padding: 12px;
+}
+
 .eBgAbout {
     background-color: #f0dddd;
     height: 100vh;
