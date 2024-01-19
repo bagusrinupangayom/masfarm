@@ -14,9 +14,11 @@ function App() {
     return (
         <>
             <Router>
+                {/* Navbar */}
                 <div>
                     <NavigationBar />
                 </div>
+                {/* End of navbar */}
 
                 <Routes>
                     <Route path="/" element={<Home />} />
@@ -26,9 +28,11 @@ function App() {
                     <Route path="/contact" element={<Contact />} />
                 </Routes>
 
+                {/* Footer */}
                 <div>
                     <Footer />
                 </div>
+                {/* End of footer */}
             </Router>
         </>
     );
